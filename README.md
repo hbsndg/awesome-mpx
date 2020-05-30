@@ -44,7 +44,7 @@
 
 [↑ 返回目录 ↑](#目录)
 
-##组件
+## 组件
 - [mpx-echarts](https://github.com/echaoo/mpx-echarts) - mpx-chart适用于MPX小程序框架中，旨在提供连接小程序与echarts的中间组件
 - [mpx-workflow](https://github.com/guless/mpx-workflow) - mpx-workflow使用mpx-webpack-plugin编写的小程序开发工作流
 
