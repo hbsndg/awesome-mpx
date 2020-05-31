@@ -53,6 +53,7 @@
 ## Demo
 - [mpx官方demo](https://github.com/didi/mpx/tree/master/examples) - mpx官方示例项目
 - [mpx-hello-world](https://github.com/hbsndg/mpx-hello-world) - mpx-hello-world，简单的入门示例
+- [mpxday](https://github.com/hbsndg/mpxday) - mpxday是基于mpx开发的天气预报微信小程序
 - [quick-mpx-weapp-mall](https://github.com/hcsdtk/quick-mpx-weapp-mall) - 基于 mpx 快速搭建的商城小程序
 
 [↑ 返回目录 ↑](#目录)
