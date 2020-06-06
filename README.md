@@ -6,7 +6,7 @@
 
 如果这个仓库对您有帮助，欢迎 star。如果这个仓库帮您提升了技能找到了工作，可以请我喝杯咖啡：
 
-<p align="center"><img src="http://i2.tiimg.com/720116/26233c91bad00cf2.jpg" width="320" height="320" alt="wx like" /></p>
+<p align="center"><img src="http://i2.tiimg.com/720116/da636b46a59c1320.jpg" width="320" height="320" alt="wx like" /></p>
 
 ## 目录
 
